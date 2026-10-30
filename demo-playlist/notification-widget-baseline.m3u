@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch_keep_1" tvg-logo="http://example.com/logos/vtv1.png" group-title="Tin Tức",VTV1 HD
+http://stream.example.com/live/vtv1/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_2" tvg-logo="http://example.com/logos/vtv2.png" group-title="Tin Tức",VTV2 HD
+http://stream.example.com/live/vtv2/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_3" tvg-logo="http://example.com/logos/vtv3.png" group-title="Tin Tức",VTV3 HD
+http://stream.example.com/live/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_4" tvg-logo="http://example.com/logos/vtv4.png" group-title="Tin Tức",VTV4 HD
+http://stream.example.com/live/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_5" tvg-logo="http://example.com/logos/vtv5.png" group-title="Tin Tức",VTV5 HD
+http://stream.example.com/live/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_6" tvg-logo="http://example.com/logos/vtv6.png" group-title="Tin Tức",VTV6 HD
+http://stream.example.com/live/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_7" tvg-logo="http://example.com/logos/vtv7.png" group-title="Tin Tức",VTV7 HD
+http://stream.example.com/live/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_8" tvg-logo="http://example.com/logos/vtv8.png" group-title="Tin Tức",VTV8 HD
+http://stream.example.com/live/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_9" tvg-logo="http://example.com/logos/vtv9.png" group-title="Tin Tức",VTV9 HD
+http://stream.example.com/live/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="ch_keep_10" tvg-logo="http://example.com/logos/vtv10.png" group-title="Tin Tức",VTV10 HD
+http://stream.example.com/live/vtv10/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_1" tvg-logo="http://example.com/logos/del_1.png" group-title="Giải Trí",Kênh Xóa 1
+http://stream.example.com/live/del_1/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_2" tvg-logo="http://example.com/logos/del_2.png" group-title="Giải Trí",Kênh Xóa 2
+http://stream.example.com/live/del_2/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_3" tvg-logo="http://example.com/logos/del_3.png" group-title="Giải Trí",Kênh Xóa 3
+http://stream.example.com/live/del_3/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_4" tvg-logo="http://example.com/logos/del_4.png" group-title="Giải Trí",Kênh Xóa 4
+http://stream.example.com/live/del_4/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_5" tvg-logo="http://example.com/logos/del_5.png" group-title="Giải Trí",Kênh Xóa 5
+http://stream.example.com/live/del_5/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_6" tvg-logo="http://example.com/logos/del_6.png" group-title="Giải Trí",Kênh Xóa 6
+http://stream.example.com/live/del_6/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_7" tvg-logo="http://example.com/logos/del_7.png" group-title="Giải Trí",Kênh Xóa 7
+http://stream.example.com/live/del_7/index.m3u8
+#EXTINF:-1 tvg-id="ch_del_8" tvg-logo="http://example.com/logos/del_8.png" group-title="Giải Trí",Kênh Xóa 8
+http://stream.example.com/live/del_8/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_1" tvg-logo="http://example.com/logos/rename_1.png" group-title="Phim Truyện",Kênh Cũ 1
+http://stream.example.com/live/rename_1/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_2" tvg-logo="http://example.com/logos/rename_2.png" group-title="Phim Truyện",Kênh Cũ 2
+http://stream.example.com/live/rename_2/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_3" tvg-logo="http://example.com/logos/rename_3.png" group-title="Phim Truyện",Kênh Cũ 3
+http://stream.example.com/live/rename_3/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_4" tvg-logo="http://example.com/logos/rename_4.png" group-title="Phim Truyện",Kênh Cũ 4
+http://stream.example.com/live/rename_4/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_5" tvg-logo="http://example.com/logos/rename_5.png" group-title="Phim Truyện",Kênh Cũ 5
+http://stream.example.com/live/rename_5/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_6" tvg-logo="http://example.com/logos/rename_6.png" group-title="Phim Truyện",Kênh Cũ 6
+http://stream.example.com/live/rename_6/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_7" tvg-logo="http://example.com/logos/rename_7.png" group-title="Phim Truyện",Kênh Cũ 7
+http://stream.example.com/live/rename_7/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_8" tvg-logo="http://example.com/logos/rename_8.png" group-title="Phim Truyện",Kênh Cũ 8
+http://stream.example.com/live/rename_8/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_9" tvg-logo="http://example.com/logos/rename_9.png" group-title="Phim Truyện",Kênh Cũ 9
+http://stream.example.com/live/rename_9/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_10" tvg-logo="http://example.com/logos/rename_10.png" group-title="Phim Truyện",Kênh Cũ 10
+http://stream.example.com/live/rename_10/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_11" tvg-logo="http://example.com/logos/rename_11.png" group-title="Phim Truyện",Kênh Cũ 11
+http://stream.example.com/live/rename_11/index.m3u8
+#EXTINF:-1 tvg-id="ch_rename_12" tvg-logo="http://example.com/logos/rename_12.png" group-title="Phim Truyện",Kênh Cũ 12
+http://stream.example.com/live/rename_12/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_1" tvg-logo="http://example.com/logos/url_1.png" group-title="Thể Thao",Kênh URL Đổi 1
+http://stream.old-domain.com/live/sport_1/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_2" tvg-logo="http://example.com/logos/url_2.png" group-title="Thể Thao",Kênh URL Đổi 2
+http://stream.old-domain.com/live/sport_2/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_3" tvg-logo="http://example.com/logos/url_3.png" group-title="Thể Thao",Kênh URL Đổi 3
+http://stream.old-domain.com/live/sport_3/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_4" tvg-logo="http://example.com/logos/url_4.png" group-title="Thể Thao",Kênh URL Đổi 4
+http://stream.old-domain.com/live/sport_4/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_5" tvg-logo="http://example.com/logos/url_5.png" group-title="Thể Thao",Kênh URL Đổi 5
+http://stream.old-domain.com/live/sport_5/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_6" tvg-logo="http://example.com/logos/url_6.png" group-title="Thể Thao",Kênh URL Đổi 6
+http://stream.old-domain.com/live/sport_6/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_7" tvg-logo="http://example.com/logos/url_7.png" group-title="Thể Thao",Kênh URL Đổi 7
+http://stream.old-domain.com/live/sport_7/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_8" tvg-logo="http://example.com/logos/url_8.png" group-title="Thể Thao",Kênh URL Đổi 8
+http://stream.old-domain.com/live/sport_8/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_9" tvg-logo="http://example.com/logos/url_9.png" group-title="Thể Thao",Kênh URL Đổi 9
+http://stream.old-domain.com/live/sport_9/index.m3u8
+#EXTINF:-1 tvg-id="ch_url_10" tvg-logo="http://example.com/logos/url_10.png" group-title="Thể Thao",Kênh URL Đổi 10
+http://stream.old-domain.com/live/sport_10/index.m3u8
